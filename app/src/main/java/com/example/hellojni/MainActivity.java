@@ -13,7 +13,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        ((TextView)findViewById(R.id.tv_hello_jni)).setText(JniUtils.getName());
+        //为什么这里只有 8个a 可以传递参数？
+        ((TextView)findViewById(R.id.tv_hello_jni)).setText(JniUtils.getName("aaaaaaaa"));
     }
 }
 
