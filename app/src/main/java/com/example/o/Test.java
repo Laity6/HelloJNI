@@ -1,9 +1,11 @@
-package com.example.oc;
+package com.example.o;
 
 import java.util.ArrayList;
 
 /**
- * 形象的开闭原则
+ * 开闭原则规定“软件中的对象（类，模块，函数等等）应该对于扩展是开放
+ * 的，但是对于修改是封闭的”，这意味着一个实体是允许在不改变它的源代
+ * 码的前提下变更它的行为。
  */
 public class Test {
 

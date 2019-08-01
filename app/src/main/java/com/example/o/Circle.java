@@ -1,4 +1,4 @@
-package com.example.oc;
+package com.example.o;
 
 public class Circle implements Shape{
     private double radius;

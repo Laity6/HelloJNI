@@ -1,4 +1,4 @@
-package com.example.oc;
+package com.example.o;
 
 public interface Shape {
     double getArea();
