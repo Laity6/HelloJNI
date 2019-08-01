@@ -1,4 +1,4 @@
-package com.example.o;
+package com.example.Principle5.o;
 
 public class Rectangle implements Shape{
     private double length;

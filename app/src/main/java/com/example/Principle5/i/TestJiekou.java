@@ -1,4 +1,4 @@
-package com.example.i;
+package com.example.Principle5.i;
 
 /**
  * 接口隔离原则
